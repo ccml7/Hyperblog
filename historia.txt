@@ -2,6 +2,8 @@ Esta será la historia de Camilo
 
 Camilo es biólogo y actualmente tiene 25 años
 
-Trabaja con aves. 
+Trabaja con aves, y también le gusta programar.
+
+Vive en Medellín.
 
 Fin.
